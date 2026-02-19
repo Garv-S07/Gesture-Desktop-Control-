@@ -1,0 +1,122 @@
+{
+    "garv": {
+        "move": {
+            "name": "move",
+            "action": "Move Cursor"
+        },
+        "left_click": {
+            "name": "left_click",
+            "action": "Left Mouse Click"
+        },
+        "right_click": {
+            "name": "right_click",
+            "action": "Right Mouse Click"
+        },
+        "scroll_up": {
+            "name": "scroll_up",
+            "action": "Scroll Up"
+        },
+        "scroll_down": {
+            "name": "scroll_down",
+            "action": "Scroll Down"
+        },
+        "maximize": {
+            "name": "maximize",
+            "action": "Maximize Window"
+        },
+        "minimize": {
+            "name": "minimize",
+            "action": "Minimize Window"
+        }
+    },
+    "yash": {
+        "move": {
+            "name": "move",
+            "action": "Move Cursor"
+        },
+        "left_click": {
+            "name": "left_click",
+            "action": "Left Mouse Click"
+        },
+        "right_click": {
+            "name": "right_click",
+            "action": "Right Mouse Click"
+        },
+        "scroll_up": {
+            "name": "scroll_up",
+            "action": "Scroll Up"
+        },
+        "scroll_down": {
+            "name": "scroll_down",
+            "action": "Scroll Down"
+        },
+        "maximize": {
+            "name": "maximize",
+            "action": "Maximize Window"
+        },
+        "minimize": {
+            "name": "minimize",
+            "action": "Minimize Window"
+        }
+    },
+    "raj": {
+        "move": {
+            "name": "move",
+            "action": "Move Cursor"
+        },
+        "left_click": {
+            "name": "left_click",
+            "action": "Left Mouse Click"
+        },
+        "right_click": {
+            "name": "right_click",
+            "action": "Right Mouse Click"
+        },
+        "scroll_up": {
+            "name": "scroll_up",
+            "action": "Scroll Up"
+        },
+        "scroll_down": {
+            "name": "scroll_down",
+            "action": "Scroll Down"
+        },
+        "maximize": {
+            "name": "maximize",
+            "action": "Maximize Window"
+        },
+        "minimize": {
+            "name": "minimize",
+            "action": "Minimize Window"
+        }
+    },
+    "Garv": {
+        "move": {
+            "name": "move",
+            "action": "Move Cursor"
+        },
+        "left_click": {
+            "name": "left_click",
+            "action": "Left Mouse Click"
+        },
+        "right_click": {
+            "name": "right_click",
+            "action": "Right Mouse Click"
+        },
+        "scroll_up": {
+            "name": "scroll_up",
+            "action": "Scroll Up"
+        },
+        "scroll_down": {
+            "name": "scroll_down",
+            "action": "Scroll Down"
+        },
+        "maximize": {
+            "name": "maximize",
+            "action": "Maximize Window"
+        },
+        "minimize": {
+            "name": "minimize",
+            "action": "Minimize Window"
+        }
+    }
+}
